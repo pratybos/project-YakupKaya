@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract/Abstract.iml" filepath="$PROJECT_DIR$/Abstract/Abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comparable/Comparable.iml" filepath="$PROJECT_DIR$/Comparable/Comparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comparator/Comparator.iml" filepath="$PROJECT_DIR$/Comparator/Comparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composition/Composition.iml" filepath="$PROJECT_DIR$/Composition/Composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DefultAndStatic/DefultAndStatic.iml" filepath="$PROJECT_DIR$/DefultAndStatic/DefultAndStatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enums/Enums.iml" filepath="$PROJECT_DIR$/Enums/Enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonDesingPatern/SingletonDesingPatern.iml" filepath="$PROJECT_DIR$/SingletonDesingPatern/SingletonDesingPatern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TasksJava.iml" filepath="$PROJECT_DIR$/TasksJava.iml" />
+    </modules>
+  </component>
+</project>
